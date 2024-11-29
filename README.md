@@ -29,6 +29,7 @@
       </td>
     </tr>
   </table>
+  <br>
 </div>
 
 ###
@@ -175,7 +176,7 @@
       </td>          
     </tr>
   </table>
-  <br><br>
+  <br>
 </div>
 
 ###
