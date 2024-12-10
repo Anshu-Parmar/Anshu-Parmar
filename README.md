@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshu Parmar</h1>
-<h3 align="center"> <samp> A Application Developer from India.</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="40px" height="27px"> </h3>
+<h3 align="center"> <samp>Application Developer from India.</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="40px" height="27px"> </h3>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
